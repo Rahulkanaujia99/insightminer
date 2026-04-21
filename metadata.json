@@ -1,0 +1,6 @@
+{
+  "name": "InsightMiner AI",
+  "description": "A sophisticated financial intelligence tool that extracts strategic insights from corporate earnings reports and financial filings using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
